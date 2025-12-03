@@ -15,7 +15,7 @@ Part of the Human Clarity Institute’s **AI–Human Experience Data Series** do
 ## Repository / Access Links
 
 **GitHub:** https://github.com/humanclarityinstitute/HCI-EmotionIdentityCreativity-2025  
-**Zenodo:** https://doi.org/10.5281/zenodo.17653906 
+**Zenodo:** https://doi.org/10.5281/zenodo.17653906   
 **Figshare:** https://doi.org/10.6084/m9.figshare.30660974
   
 
@@ -178,3 +178,4 @@ Email: info@humanclarityinstitute.com
 Website: https://humanclarityinstitute.com/  
 Dashboard Cluster: Identity & Creativity  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
