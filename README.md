@@ -2,7 +2,7 @@
 
 **Human Clarity Institute (HCI)**  
 **DOI:** 10.5281/zenodo.17653906 
-**Version:** v1.0  
+**Version:** v1.1  
 **Licence:** CC-BY-4.0  
 **Date Published:** 2025-11-19  
 **Landing page:** https://humanclarityinstitute.com/datasets/emotion-identity-creativity-in-the-age-of-ai-dataset/  
@@ -178,4 +178,5 @@ Email: info@humanclarityinstitute.com
 Website: https://humanclarityinstitute.com/  
 Dashboard Cluster: Identity & Creativity  
 Dashboard Link: https://humanclarityinstitute.com/data-dashboard/
+
 
